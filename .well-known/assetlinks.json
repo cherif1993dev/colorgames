@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.stickman.clash.warriors.hero.puzzle.duelist",
+      "package_name": "com.panda.merge.coloring.dop.asmr.puzzles",
       "sha256_cert_fingerprints": [
-        "7F:53:AA:98:E7:6F:13:D4:68:3A:6F:26:DA:8D:A7:40:D2:8C:50:62:9A:13:C8:EF:A5:CC:2A:51:16:A5:6D:79"
+        "2D:D2:D8:58:7B:C5:E5:65:CE:2B:D0:8C:62:B5:81:71:4E:8F:03:05:95:DB:2F:FF:C9:54:03:3B:E8:17:67:B5"
       ]
     }
   }
