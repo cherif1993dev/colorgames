@@ -52,6 +52,37 @@
   </a>
 </div>
 
+<div class="game-row">
+  <a href="https://www.yiv.com/games/Draw-Glow-Christmas/index.html" class="game-box">
+    <img src="https://www.yiv.com/cdn-cgi/image/quality=78,fit=cover,format=auto/thumb/Draw-Glow-Christmas.jpg" alt="Game 7">
+    <div class="game-info">
+      <h2>Draw Glow Christmas</h2>
+    </div>
+  </a>
+  <a href="https://www.yiv.com/games/Tie-Dye-1/index.html" class="game-box">
+    <img src="https://www.yiv.com/cdn-cgi/image/quality=78,fit=cover,format=auto/thumb/Tie-Dye-1.jpg" alt="Game 8">
+    <div class="game-info">
+      <h2>Tie Dye</h2>
+    </div>
+  </a>
+</div>
+
+<div class="game-row">
+  <a href="https://www.yiv.com/games/Mermaid-Coloring-Book-Glitter/index.html" class="game-box">
+    <img src="https://www.yiv.com/cdn-cgi/image/quality=78,fit=cover,format=auto/thumb/Mermaid-Coloring-Book-Glitter.jpg" alt="Game 7">
+    <div class="game-info">
+      <h2>Mermaid Coloring Book Glitter</h2>
+    </div>
+  </a>
+  <a href="https://www.yiv.com/games/Unicorn-Coloring-Book-Glitter/index.html" class="game-box">
+    <img src="https://www.yiv.com/cdn-cgi/image/quality=78,fit=cover,format=auto/thumb/Unicorn-Coloring-Book-Glitter.jpg" alt="Game 8">
+    <div class="game-info">
+      <h2>Unicorn Coloring Book Glitter</h2>
+    </div>
+  </a>
+</div>
+
+
 <div class="app-container">
   <div class="app-label">More Apps</div>
   <div class="app-box touch-scroll">
