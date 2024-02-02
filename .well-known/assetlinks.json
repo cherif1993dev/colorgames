@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.panda.merge.coloring.dop.asmr.puzzles",
+      "package_name": "com.coloring.book.asmr.painting.puzzle.master",
       "sha256_cert_fingerprints": [
-        "2D:D2:D8:58:7B:C5:E5:65:CE:2B:D0:8C:62:B5:81:71:4E:8F:03:05:95:DB:2F:FF:C9:54:03:3B:E8:17:67:B5"
+        "96:AD:3E:DF:10:9A:BE:BC:7D:83:4E:8E:BA:41:E7:C2:4A:85:7E:C2:16:B3:FD:7A:D4:DA:DB:4D:FE:66:7B:5C"
       ]
     }
   }
